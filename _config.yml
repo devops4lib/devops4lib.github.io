@@ -13,19 +13,20 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "DevOps 4 Lib : We have a blog"
+title: Your awesome title
 email: your-email@example.com
-description: "Group blog for the DevOps 4 Lib community to share ideas,
-solutions, etc. Anyone who would like to contribute can make a Pull request
-with their post."
+description: >- # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "devops4lib.github.io"
-twitter_username: code4lib
-github_username:  devops4lib
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: jekyllrb
+github_username:  jekyll
 
 # Build settings
 markdown: kramdown
-remote_theme: "jeffreytse/jekyll-theme-yat"
+theme: minima
 plugins:
   - jekyll-feed
 
