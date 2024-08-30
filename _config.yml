@@ -105,16 +105,16 @@ conference:
       - name: How to get there
         relative_url: /location/
       - name: Registration
-        disabled: true
-        absolute_url: ''
+        disabled: false
+        absolute_url: 'https://forms.gle/DVRbvyHXXTqi4mp7A'
 
   # Information boxes
   info_bars:
-    - title: Registration for DevOps4Lib 2024 will open soon!
+    - title: Registration for DevOps4Lib 2024 is open!
       color: primary
       main_only: true
       text: |
-        Stay tuned for more information on how to register for the DevOps4Lib Summit 2024!
+        [Register now](https://forms.gle/DVRbvyHXXTqi4mp7A) for the DevOps4Lib Summit 2024! The event will be October 14 - 15 at [Lewis Science Library](https://library.princeton.edu/services/lewis-science-library), Princeton University. Registration is free and open to all. 
     - text: DevOps4Lib is an un-conference. We will be voting on sessions in the first part of the meeting.
       color: warning
       pages_only: true
@@ -160,7 +160,7 @@ conference:
     # display it.
     map:
       # Initial map center point
-      home_coord: 40.34968895518347, -74.65694519914167
+      home_coord: 40.34631081028874, -74.65236980681317
       # Alternative map providers can be found on https://leaflet-extras.github.io/leaflet-providers/preview/
       # The following do match the Bootstrap design not too badly:
       #   - Thunderforest.Neighbourhood
