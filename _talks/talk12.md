@@ -1,5 +1,5 @@
 ---
-name: Highest Vote I
+name: Day 1 Retrospective and Wrap-up
 speakers:
   - The Anonymous
 categories:

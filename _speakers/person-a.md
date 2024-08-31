@@ -1,10 +1,10 @@
 ---
-name: Tolga Philip
-first_name: Tolga
-last_name: Philip
+name: Francis Kayiwa
+first_name: Francis
+last_name: Kayiwa
 links:
   - name: Profile
-    absolute_url: https://github.com
+    absolute_url: https://github.com/kayiwa
 ---
 
 Lorem ipsum dolor sit amet, mel tritani quaestio ne. Sed cu quot erat. Stet mutat moderatius ad vel. Ne eum quod expetendis, odio eros nominavi sed et, eu suscipit atomorum sit. Facete maluisset urbanitas in eos, idque expetendis et vis, et quo everti quaestio maiestatis.

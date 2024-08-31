@@ -1,9 +1,9 @@
 ---
-name: Highest Vote I
+name: Day 2 Affinity Group B (Breakout)
 speakers:
   - The Anonymous
 categories:
-  - Plenary Talk
+  - Breakout Session
   - Talk
 ---
 

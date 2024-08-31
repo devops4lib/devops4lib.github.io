@@ -1,9 +1,9 @@
 ---
-name: Highest Vote I
+name: Affinity Group A (Breakout)
 speakers:
   - The Anonymous
 categories:
-  - Plenary Talk
+  - Breakout Session
   - Talk
 ---
 
