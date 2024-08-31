@@ -1,4 +1,4 @@
-title: DevOps4Lib Summit 2024
+title: DevOps4Lib Fall Summit 2024
 preposition: at
 description: >-
   A gathering to grow DevOps culture in libraries. 
@@ -41,9 +41,9 @@ defaults:
       layout: talk
   - scope:
       path: ""
-      type: speakers
+      type: attendees
     values:
-      layout: speaker
+      layout: attendees
   - scope:
       path: ""
       type: rooms
@@ -74,8 +74,8 @@ conference:
         relative_url: /program/
       - name: Talks
         relative_url: /talks/
-      - name: Speakers
-        relative_url: /speakers/
+      - name: Attendees
+        relative_url: /attendees/
       - name: Location
         relative_url: /location/
       - name: Previous Editions
@@ -114,7 +114,7 @@ conference:
       color: primary
       main_only: true
       text: |
-        [Register now](https://forms.gle/DVRbvyHXXTqi4mp7A) for the DevOps4Lib Summit 2024! The event will be October 14 - 15 at [Lewis Science Library](https://library.princeton.edu/services/lewis-science-library), Princeton University. Registration is free and open to all. 
+        [Register now](https://forms.gle/DVRbvyHXXTqi4mp7A) for the DevOps4Lib Fall Summit 2024! The event will be October 14 - 15 at [Lewis Science Library](https://library.princeton.edu/services/lewis-science-library), Princeton University. Registration is free and open to all. 
     - text: DevOps4Lib is an un-conference. We will be voting on sessions in the first part of the meeting.
       color: warning
       pages_only: true
@@ -145,7 +145,7 @@ conference:
     # Hide icons on talk overview page
     hide_icons: false
 
-  speakers:
+  attendees:
     # Show first and last name
     show_firstname: true
 
