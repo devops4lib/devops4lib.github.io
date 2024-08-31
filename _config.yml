@@ -26,7 +26,7 @@ collections:
   talks:
     output: true
     permalink: /:collection/:title/
-  speakers:
+  attendees:
     output: true
     permalink: /:collection/:title/
   rooms:
