@@ -6,5 +6,6 @@ speakers:
 categories:
   - Plenary Talk
   - Talk
-hide: true
 ---
+
+Discuss order and expectations for the two days

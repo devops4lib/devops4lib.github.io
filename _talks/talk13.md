@@ -1,5 +1,5 @@
 ---
-name: Highest Vote I
+name: Happy Hour
 speakers:
   - The Anonymous
 categories:

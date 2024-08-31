@@ -1,9 +1,9 @@
 ---
-name: Highest Vote I
+name: PM Affinity Group C (Breakout)
 speakers:
   - The Anonymous
 categories:
-  - Plenary Talk
+  - Breakout Session
   - Talk
 ---
 
