@@ -1,6 +1,6 @@
 ---
 name: Eu Nisl Nunc Mi Ipsum Faucibus
-attendees:
+speakers:
   - The Anonymous
 categories:
   - Cat B

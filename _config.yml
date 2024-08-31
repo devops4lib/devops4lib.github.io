@@ -26,7 +26,7 @@ collections:
   talks:
     output: true
     permalink: /:collection/:title/
-  attendees:
+  speakers:
     output: true
     permalink: /:collection/:title/
   rooms:
@@ -41,9 +41,9 @@ defaults:
       layout: talk
   - scope:
       path: ""
-      type: attendees
+      type: speakers
     values:
-      layout: attendees
+      layout: speakers
   - scope:
       path: ""
       type: rooms
@@ -75,7 +75,7 @@ conference:
       - name: Talks
         relative_url: /talks/
       - name: Attendees
-        relative_url: /attendees/
+        relative_url: /speakers/
       - name: Location
         relative_url: /location/
       - name: Previous Editions
@@ -137,9 +137,9 @@ conference:
   talks:
     # Talk categories
     main_categories:
-      - name: Cat A
+      - name: Plenary Talk
         color: info
-      - name: Cat B
+      - name: Breakout Session
         color: success
 
     # Hide icons on talk overview page
