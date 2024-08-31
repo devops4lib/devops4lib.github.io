@@ -1,6 +1,6 @@
 ---
 name: Vim Impetus Placerat Cotidieque Ad
-speakers:
+attendees:
   - Tolga Philip
 categories:
   - Cat B

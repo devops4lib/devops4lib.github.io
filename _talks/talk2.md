@@ -1,6 +1,6 @@
 ---
 name: Condimentum Vitae Sapien Pellentesque
-speakers:
+attendees:
   - Tolga Philip
   - Alex Rosales
 categories:

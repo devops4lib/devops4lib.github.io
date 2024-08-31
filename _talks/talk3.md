@@ -1,6 +1,6 @@
 ---
 name: Arcu Non Odio
-speakers:
+attendees:
   - Alex Rosales
 categories:
   - Cat A
