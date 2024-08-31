@@ -1,10 +1,10 @@
 ---
-name: Condimentum Vitae Sapien Pellentesque
+name: Introductions and Summit planning and guidelines
 speakers:
-  - Tolga Philip
-  - Alex Rosales
+  - Francis Kayiwa
+  - Bess Sadler
 categories:
-  - Cat A
+  - Plenary Talk
   - Talk
 hide: true
 ---
