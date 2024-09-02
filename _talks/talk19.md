@@ -1,7 +1,7 @@
 ---
 name: Lunch Logistics
 speakers:
-  - Francis Kayiwa
+  - Vickie Karasic
 categories:
   - Plenary Talk
   - Talk
