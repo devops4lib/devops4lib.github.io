@@ -43,7 +43,7 @@ defaults:
       path: ""
       type: speakers
     values:
-      layout: speakers
+      layout: speaker
   - scope:
       path: ""
       type: rooms
