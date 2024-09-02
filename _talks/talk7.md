@@ -6,7 +6,15 @@ categories:
   - Breakout Session
   - Talk
 ---
+## Breakout tips
+* Select a facilitator, a notetaker, a timekeeper, and a gatekeeper
+  * a gatekeeper is an advocate for full participation in the session. Some duties of the gatekeeper are:
+    * slowing the conversation at times to ensure everyone can participate
+    * asking for clarification on acronyms, tooling names or other phrases so everyone understands the conversation
+    * bringing any inappropriate/discriminatory behavior to duty officers for resolution
+* Start with a problem statement or try to answer the following questions:
+  * What do we do well?
+  * What would you like to improve?
+  * What are the desired deliverables?
+  * What are our use cases?
 
-Molestie nunc non blandit massa. Ultrices gravida dictum fusce ut placerat orci nulla. Sed enim ut sem viverra aliquet. Ac tincidunt vitae semper quis lectus nulla at volutpat. Diam donec adipiscing tristique risus nec. Sed enim ut sem viverra aliquet eget. Aliquam vestibulum morbi blandit cursus risus. Blandit cursus risus at ultrices. Mauris pharetra et ultrices neque ornare aenean euismod elementum.
-
-Justo laoreet sit amet cursus sit amet. Euismod nisi porta lorem mollis. Id ornare arcu odio ut sem. Neque aliquam vestibulum morbi blandit cursus risus. Eu volutpat odio facilisis mauris. Velit dignissim sodales ut eu sem integer. Iaculis nunc sed augue lacus viverra vitae. Dictumst vestibulum rhoncus est pellentesque. Parturient montes nascetur ridiculus mus mauris vitae.
