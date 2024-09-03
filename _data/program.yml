@@ -68,14 +68,23 @@ days:
       - name: Day 2 Retrospective and Wrap-up
         time_start: '12:00'
         time_end: '12:45'
+      - name: HackFest Group A
+        time_start: '13:00'
+        time_end: '16:45'
 
   - name: Room B
     talks:
       - name: Day 2 Affinity Group B (Breakout)
         time_start: '11:00'
         time_end: '11:55'
+      - name: HackFest Group B
+        time_start: '13:00'
+        time_end: '16:45'
   - name: Room C
     talks:
       - name: Day 2 Affinity Group C (Breakout)
         time_start: '11:00'
         time_end: '11:55'
+      - name: HackFest Group C
+        time_start: '13:00'
+        time_end: '16:45'
