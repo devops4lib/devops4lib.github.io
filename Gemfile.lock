@@ -6,8 +6,6 @@ GEM
     bigdecimal (3.1.8)
     colorator (1.1.0)
     concurrent-ruby (1.3.4)
-    devops4lib-jekyll-theme-conference (0.0.1)
-      jekyll (~> 4.0)
     em-websocket (0.5.3)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0)
@@ -67,6 +65,8 @@ GEM
       sass-embedded (~> 1.54)
     jekyll-seo-tag (2.8.0)
       jekyll (>= 3.8, < 5.0)
+    jekyll-theme-conference (3.6.6)
+      jekyll (~> 4.0)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
     kramdown (2.4.0)
@@ -137,10 +137,10 @@ PLATFORMS
   x86_64-linux-musl
 
 DEPENDENCIES
-  devops4lib-jekyll-theme-conference
   http_parser.rb (~> 0.6.0)
   jekyll (~> 4)
   jekyll-feed (~> 0.6)
+  jekyll-theme-conference
   kramdown-parser-gfm
   minima (~> 2.0)
   tzinfo (>= 1, < 3)
@@ -149,7 +149,7 @@ DEPENDENCIES
   webrick
 
 RUBY VERSION
-   ruby 3.3.4p94
+   ruby 3.2.2p53
 
 BUNDLED WITH
    2.5.10

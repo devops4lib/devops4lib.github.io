@@ -42,4 +42,4 @@ gem "kramdown-parser-gfm"
 # do not have a Java counterpart.
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 gem "webrick"
-gem "devops4lib-jekyll-theme-conference"
+gem "jekyll-theme-conference"
