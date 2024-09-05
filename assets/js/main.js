@@ -8,3 +8,5 @@ headerApp.use(lux)
 const footerApp = createApp({});
 footerApp.use(lux)
 .mount('#lux-footer-container');
+
+// comment out the following line if you don't want to use the lux-design-system
