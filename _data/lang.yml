@@ -40,8 +40,8 @@ en:
     title: Program
     legend: Caption
   speaker:
-    overview: Speakers
-    title: Speaker
+    overview: Attendees
+    title: Attendee
     talks: Talks at this conference
   talk:
     overview: Talks
