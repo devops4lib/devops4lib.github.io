@@ -1,9 +1,8 @@
 ---
 name: Highest Vote II
 speakers:
-  - Francis Kayiwa
+  - Patrick Galligan
 categories:
-  - Plenary Talk
   - Talk
 ---
 

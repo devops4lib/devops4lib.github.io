@@ -1,4 +1,4 @@
-title: DevOps4Lib Fall Summit 2024
+title: DevOps4Lib Fall Summit 2025
 preposition: at
 description: >-
   A gathering to grow DevOps culture in Galleries, Libraries, Archives and Museums (GLAM). 
@@ -80,7 +80,7 @@ conference:
         relative_url: /location/
       - name: Previous Editions
         menu:
-          - name: 2024 (current)
+          - name: 2025 (current)
             disabled: true
           # - name: 2019
           #   relative_url: /2019/
@@ -110,11 +110,11 @@ conference:
 
   # Information boxes
   info_bars:
-    - title: Registration for DevOps4Lib 2024 is open!
+    - title: Registration for DevOps4Lib 2025 is open!
       color: primary
       main_only: true
       text: |
-        [Register now](https://forms.gle/DVRbvyHXXTqi4mp7A) for the DevOps4Lib Fall Summit 2024! The event will be October 14 - 15 at [Lewis Science Library](https://library.princeton.edu/services/lewis-science-library), Princeton University. Registration is free and open to all. 
+        [Register now]() for the DevOps4Lib Fall Summit 2025! The event will be October 7 - 8 at [The Rockefeller Archive Center](https://rockarch.org). Registration is free and open to all. 
     - text: DevOps4Lib is an un-conference. We will be voting on sessions in the first part of the meeting.
       color: warning
       pages_only: true
@@ -160,7 +160,7 @@ conference:
     # display it.
     map:
       # Initial map center point
-      home_coord: 40.34631081028874, -74.65236980681317
+      home_coord: 41.091919, -73.835205
       # Alternative map providers can be found on https://leaflet-extras.github.io/leaflet-providers/preview/
       # The following do match the Bootstrap design not too badly:
       #   - Thunderforest.Neighbourhood

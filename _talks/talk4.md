@@ -1,9 +1,8 @@
 ---
 name: Highest Vote I
 speakers:
-  - Bess Sadler
+  - Patrick Galligan
 categories:
-  - Plenary Talk
   - Talk
 ---
 

@@ -1,10 +1,9 @@
 ---
 name: Introductions and Summit planning and guidelines
 speakers:
-  - Francis Kayiwa
-  - Bess Sadler
+  - Patrick Galligan
+  - Hillel Arnold
 categories:
-  - Plenary Talk
   - Talk
 ---
 

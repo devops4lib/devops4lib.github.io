@@ -1,5 +1,5 @@
 ---
-name: Affinity Group C (Breakout)
+name: Breakout C
 speakers:
   - The Anonymous
 categories:

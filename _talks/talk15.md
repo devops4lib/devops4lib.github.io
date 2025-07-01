@@ -1,5 +1,5 @@
 ---
-name: Day 2 Affinity Group A (Breakout)
+name: Day 2 Breakout B
 speakers:
   - The Anonymous
 categories:

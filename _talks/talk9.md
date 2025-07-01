@@ -1,5 +1,5 @@
 ---
-name: PM Affinity Group A (Breakout)
+name: PM Breakout A
 speakers:
   - The Anonymous
 categories:
