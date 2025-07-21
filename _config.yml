@@ -3,7 +3,7 @@ preposition: at
 description: >-
   A gathering to grow DevOps culture in Galleries, Libraries, Archives and Museums (GLAM). 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://devops4lib2025.github.io" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://devops4lib.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 
 remote_theme: "DigitaleGesellschaft/jekyll-theme-conference@v3.6.1"
 
@@ -67,7 +67,7 @@ conference:
     logo:
       name: DevOps4Lib
       # img: ''
-      url: 'https://devops4lib2025.github.io/'
+      url: 'https://devops4lib.github.io/'
     breakpoint: md
     links:
       - name: Program
