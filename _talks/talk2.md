@@ -2,8 +2,8 @@
 name: Introductions and Summit planning and guidelines
 speakers:
   - Patrick Galligan
-  - Hillel Arnold
 categories:
+  - Plenary Talk
   - Talk
 ---
 

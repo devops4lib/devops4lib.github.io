@@ -3,6 +3,7 @@ name: Day 2 Retrospective and Wrap-up
 speakers:
   - Patrick Galligan
 categories:
+  - Plenary Talk
   - Talk
 ---
 ### Minuses

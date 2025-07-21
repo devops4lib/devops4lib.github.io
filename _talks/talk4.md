@@ -3,6 +3,7 @@ name: Highest Vote I
 speakers:
   - Patrick Galligan
 categories:
+  - Plenary Talk
   - Talk
 ---
 

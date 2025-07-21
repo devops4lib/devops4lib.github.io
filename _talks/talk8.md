@@ -3,6 +3,7 @@ name: Highest Vote II
 speakers:
   - Patrick Galligan
 categories:
+  - Plenary Talk
   - Talk
 ---
 

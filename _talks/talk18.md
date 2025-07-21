@@ -1,5 +1,5 @@
 ---
-name: Lunch Logistics
+name: Lunch
 speakers:
   - Patrick Galligan
 categories:

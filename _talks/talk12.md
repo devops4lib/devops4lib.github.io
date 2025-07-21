@@ -3,6 +3,7 @@ name: Day 1 Retrospective and Wrap-up
 speakers:
   - Patrick Galligan
 categories:
+  - Plenary Talk
   - Talk
 ---
 
