@@ -1,5 +1,5 @@
 ---
-name: PM Affinity Group C (Breakout)
+name: PM Breakout C
 speakers:
   - The Anonymous
 categories:

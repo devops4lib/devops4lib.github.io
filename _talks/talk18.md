@@ -1,24 +1,9 @@
 ---
-name: Day 2 Retrospective and Wrap-up
+name: Lunch
 speakers:
-  - Francis Kayiwa
+  - Patrick Galligan
 categories:
-  - Plenary Talk
   - Talk
 ---
-### Minuses
-  - minus one
-  - minus two
 
-### Pluses
-
-  - plus one
-  - plus two
-
-### Deltas
-  - delta one
-  - delta two
-
-### Action Items
-  - action one
-  - action two
+Lunch Break: (Details: TBD)

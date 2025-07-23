@@ -1,7 +1,7 @@
 ---
 name: Day 1 Retrospective and Wrap-up
 speakers:
-  - Francis Kayiwa
+  - Patrick Galligan
 categories:
   - Plenary Talk
   - Talk
