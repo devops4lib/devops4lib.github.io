@@ -1,10 +1,11 @@
 ---
-name: Happy Hour
+name: Highest Vote III
 speakers:
-  - Vickie Karasic
+  - The Anonymous
 categories:
   - Plenary Talk
   - Talk
 ---
 
-Details for the rest of the day. Mostly TBD
+## Highest Voted Topic III
+Notetaker: Awesome Volunteer(s)

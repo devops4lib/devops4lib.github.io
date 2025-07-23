@@ -1,9 +1,9 @@
 ---
 name: Day 1 Coffee and Sign In
 speakers:
-  - Francis Kayiwa
+  - Patrick Galligan
 categories:
   - Plenary Talk
   - Talk
 ---
-Introductions and Housekeeping
+Coffee and Check-In

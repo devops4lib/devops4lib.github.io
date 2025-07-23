@@ -1,90 +1,76 @@
 days:
-- name: Monday
-  abbr: Mo
-  date: 2024-10-14
+- name: Tuesday
+  abbr: Tu
+  date: 2025-10-07
   rooms:
   - name: Room A
     talks:
       - name: Day 1 Coffee and Sign In
         time_start: '09:00'
-        time_end: '09:30'
+        time_end: '10:00'
       - name: Introductions and Summit planning and guidelines
-        time_start: '09:30'
-        time_end: '10:15'
+        time_start: '10:00'
+        time_end: '10:45'
       - name: Highest Vote I
-        time_start: '10:30'
-        time_end: '11:30'
-      - name: Affinity Group A (Breakout)
-        time_start: '11:45'
-        time_end: '12:40'
-      - name: Lunch Logistics
-        time_start: '12:40'
-        time_end: '13:00'
+        time_start: '11:00'
+        time_end: '12:00'
+      - name: Breakout A
+        time_start: '12:00'
+        time_end: '12:45'
+      - name: Lunch
+        time_start: '13:00'
+        time_end: '14:00'
       - name: Highest Vote II
-        time_start: '13:15'
-        time_end: '14:15'
-      - name: PM Affinity Group A (Breakout)
-        time_start: '14:30'
-        time_end: '15:25'
-      - name: Day 1 Retrospective and Wrap-up
-        time_start: '15:30'
+        time_start: '14:00'
+        time_end: '15:00'
+      - name: PM Breakout A
+        time_start: '15:15'
         time_end: '16:15'
-      - name: Happy Hour
+      - name: Day 1 Retrospective and Wrap-up
         time_start: '16:30'
-        time_end: '16:55'
+        time_end: '17:00'
   - name: Room B
     talks:
-      - name: Affinity Group B (Breakout)
-        time_start: '11:45'
-        time_end: '12:40'
-      - name: PM Affinity Group B (Breakout)
-        time_start: '14:30'
-        time_end: '15:25'
+      - name: Breakout B
+        time_start: '12:00'
+        time_end: '12:45'
+      - name: PM Breakout B
+        time_start: '15:15'
+        time_end: '16:15'
 
   - name: Room C
     talks:
-      - name: Affinity Group C (Breakout)
-        time_start: '11:45'
-        time_end: '12:40'
-      - name: PM Affinity Group C (Breakout)
-        time_start: '14:30'
-        time_end: '15:25'
+      - name: PM Breakout C
+        time_start: '15:15'
+        time_end: '16:15'
 
-- name: Tuesday
-  abbr: Tu
-  date: 2024-10-15
+- name: Wednesday
+  abbr: We
+  date: 2025-10-08
   rooms:
   - name: Room A
     talks:
-      - name: Day 2 Coffee and sign-in
+      - name: Day 2 Coffee and Sign In
         time_start: '09:00'
-        time_end: '09:30'
+        time_end: '09:45'
       - name: Highest Vote III
-        time_start: '9:45'
+        time_start: '10:00'
         time_end: '10:45'
-      - name: Day 2 Affinity Group A (Breakout)
+      - name: Day 2 Breakout A
         time_start: '11:00'
         time_end: '11:55'
-      - name: Day 2 Retrospective and Wrap-up
+      - name: Lunch
         time_start: '12:00'
         time_end: '12:45'
-      - name: HackFest Group A
+      - name: Highest Vote IV
         time_start: '13:00'
-        time_end: '16:45'
+        time_end: '14:00'
+      - name: Day 2 Retrospective and Wrap-up
+        time_start: '14:15'
+        time_end: '14:45'
 
   - name: Room B
     talks:
-      - name: Day 2 Affinity Group B (Breakout)
+      - name: Day 2 Breakout B
         time_start: '11:00'
         time_end: '11:55'
-      - name: HackFest Group B
-        time_start: '13:00'
-        time_end: '16:45'
-  - name: Room C
-    talks:
-      - name: Day 2 Affinity Group C (Breakout)
-        time_start: '11:00'
-        time_end: '11:55'
-      - name: HackFest Group C
-        time_start: '13:00'
-        time_end: '16:45'

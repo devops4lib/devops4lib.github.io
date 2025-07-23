@@ -1,5 +1,5 @@
 ---
-name: Affinity Group B (Breakout)
+name: Breakout B
 speakers:
   - The Anonymous
 categories:

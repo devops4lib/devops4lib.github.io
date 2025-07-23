@@ -1,7 +1,7 @@
 ---
-name: Day 2 Coffee and sign-in
+name: Day 2 Coffee and Sign In
 speakers:
-  - Vickie Karasic
+  - Patrick Galligan
 categories:
   - Plenary Talk
   - Talk
