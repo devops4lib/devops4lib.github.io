@@ -114,7 +114,7 @@ conference:
       color: primary
       main_only: true
       text: |
-        [Register now](https://forms.office.com/r/eyZ4wcUufJ) for the DevOps4Lib Fall Summit 2025! The event will be October 7 - 8 at [The Rockefeller Archive Center](https://rockarch.org). Registration is free and open to all. 
+        [Register now](https://forms.office.com/r/eyZ4wcUufJ) for the DevOps4Lib Fall Summit 2025! The event will be October 7 - 8 at [the Rockefeller Archive Center](https://rockarch.org). Registration is free and open to all. 
     - text: DevOps4Lib is an un-conference. We will be voting on sessions in the first part of the meeting.
       color: warning
       pages_only: true
